@@ -1,0 +1,18 @@
+# Gearbox relocation
+ 
+
+## Goal Replace mounting brackets for Envy, the car built in 2018 by the MSU Baja Sae team to improve reliability during testing
+
+# Background
+
+## The car: 
+
+The MSU Baja team keeps several old cars in storage, and maintains them in order to have several platforms to test new components on, as well as to serve as a benchmark for future testing. Envy, which is from the 2018-19 school year, was originally designed to use custom drive shafts to transmit the power from the gearbox to the rear wheels. (there is no differential to split power between the two wheels) Over time, driveshafts were damaged, and this car is now running on a single backup driveshaft, which is shorter than the original driveshafts. The end of the driveshaft that slots into the gearbox has splines, that can slide into and out of the gearbox as the suspension compresses.
+
+# The problem 
+
+During the new member drive day, the driveshaft fell out of the gearbox. This was because as the car was driven, the forces from the bent the mounting brackets for the gearbox. This occured since the car only had one drivesafe installed, and the lateral force from the driveshaft, as it traveled into the gearbox when the suspention was compressed was only coming from one side, since usually the two driveshafts exerted similar forces against the gearbox from either side. This, over time, caused the gearbox tabs (that did not have any gussets reinforcing them) to bend, and pushed the gearbox away from the driveshaft, allowing the driveshaft to slip out of the gearbox, and the car was rendered undriveable.
+
+# The fix
+
+I was tasked with replacing the mounting tabs, as well as moving the gearbox ~1cm towards the driven wheel, to ensure the driveshaft would not fall out again. This meant I would have to remove all of the old tabs, as well as design and reinforce new tabs, while keeping the gearbox input shaft perfectly alligned with the engine output shaft, and distanced correctly, as a CVT is mounted here, which needs to be alligned perfectly at the correct distance. 
